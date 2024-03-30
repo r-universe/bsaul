@@ -8,3 +8,6 @@
 [submodule "inferference"]
 	path = inferference
 	url = https://github.com/bsaul/inferference
+[submodule "smd"]
+	path = smd
+	url = https://github.com/bsaul/smd
